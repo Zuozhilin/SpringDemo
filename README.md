@@ -1,6 +1,6 @@
 # 工程简述
 使用springboot+mybatis-plus+mysql框架基于maven搭建一个应用，完成增删改成服务接口。\
-参考文章：https://blog.csdn.net/qq_41115379/article/details/109909267?spm=1001.2014.3001.5502\
+参考文章：https://blog.csdn.net/qq_41115379/article/details/109909267?spm=1001.2014.3001.5502   \
 在原博主基础上进行增删改查功能的完善。
 # 添加相关依赖
 ```
